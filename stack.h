@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
-
+extern int oss_assignment3;
 typedef int Item;
 typedef struct stack {
 Item * contents;
